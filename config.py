@@ -1,3 +1,6 @@
+'''
+HYPERPARAMETER 입력받는거 정의하는 부분
+'''
 import argparse
 
 def get_params():

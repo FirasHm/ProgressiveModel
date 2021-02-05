@@ -1,4 +1,6 @@
-
+'''
+필요한 함수 정의
+'''
 import os
 import subprocess
 import pickle
